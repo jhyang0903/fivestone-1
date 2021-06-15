@@ -287,6 +287,7 @@ body { font-family: 'Noto Sans KR', sans-serif; }
     padding:80px 0px;
     color:#fff; 
     text-align:center; 
+    backgroudn-size:cover;
 }
 #main .attachment h2 { color:#fff; font-size:36px  }
 #main .attachment p { font-size:15px; padding:25px 0 }
